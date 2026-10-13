@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,50:19120F,100:F97316&text=MANORANJAN.&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%20BACKEND%20SYSTEMS%20%2F%20CYBERSECURITY&descAlignY=59&descSize=12&animation=fadeIn&stroke=F97316&strokeWidth=1" />
@@ -312,4 +312,3 @@ Open to connecting with developers, AI enthusiasts, and people building meaningf
 <sub>DESIGNED AROUND CURIOSITY · ENGINEERED WITH PURPOSE</sub>
 
 </div>
-```
